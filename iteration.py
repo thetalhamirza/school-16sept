@@ -1,0 +1,5 @@
+# for i in range(1,10,2):
+#     print(i, end=' ')
+
+for x in ['a','b','c']:
+    print(x)
